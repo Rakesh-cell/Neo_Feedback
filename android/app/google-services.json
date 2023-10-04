@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631836446070",
+    "firebase_url": "https://ifeedback-b46da-default-rtdb.firebaseio.com",
+    "project_id": "ifeedback-b46da",
+    "storage_bucket": "ifeedback-b46da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631836446070:android:c23d3904399f476045be57",
+        "android_client_info": {
+          "package_name": "com.ifeedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631836446070-vqvr4igm8qnaiq9f2su0mkkl87d21048.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ifeedback",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "631836446070-ocgbs34ttadqgb354f6vgmhk2d7qafkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5gQa2OakmInM7HmCKt7nwhQ0xUdZcNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631836446070-ocgbs34ttadqgb354f6vgmhk2d7qafkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631836446070-8u4rhq0o698piljnvlpcrb75s4h2hn5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ifeedback"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
